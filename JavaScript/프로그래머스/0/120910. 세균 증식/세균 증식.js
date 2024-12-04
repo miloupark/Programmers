@@ -4,3 +4,4 @@ function solution(n, t) {
 }
 
 // Math.pow 거듭제곱 함수
+// https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Exponentiation
