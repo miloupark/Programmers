@@ -1,9 +1,12 @@
 function solution(strlist) {
-    const answer = [];
     
-    for (let i = 0; i < strlist.length; i++ ) {
-        answer.push(strlist[i].length);
-    }
+    return strlist.map(el => el.length)
+}
+
+//     const answer = [];
     
-    return answer;
-}   
+//     for (let i = 0; i < strlist.length; i++ ) {
+//         answer.push(strlist[i].length);
+//     }
+    
+//     return answer;
