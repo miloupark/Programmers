@@ -4,9 +4,9 @@ function solution(num_list) {
     
     num_list.forEach(num => {
         if (num % 2 == 0) {
-            even++;
+           return even++;
         } else {
-            odd++;
+           return odd++;
         }
     })
     
