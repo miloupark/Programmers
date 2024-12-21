@@ -10,5 +10,8 @@ function solution(my_string, n) {
 // map()
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
+// repeat()
+// https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
+
 // join() 
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/join
